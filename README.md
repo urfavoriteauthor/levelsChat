@@ -15,3 +15,8 @@ inner level-live chat like skype
 fan level-custom
 
 Cannot leave your level until you receive an invite or are approved to leave your level
+
+
+styling will be needed.
+
+dependencies possibly needed: socket IO or react-gifted-chat,firebase, firebase-react, firebase styled UI, jQuery File Upload Plugin and express-fileupload
